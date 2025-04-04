@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: '두 번째 블로그 글'
 date: 2025-04-04
 categories: blog

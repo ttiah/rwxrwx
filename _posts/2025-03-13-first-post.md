@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: '첫 번째 블로그 글'
 date: 2025-03-13
 categories: blog
