@@ -118,12 +118,12 @@ author:
   name             : "dk"
   avatar           : "/assets/images/my-face.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Simple Life And Passion"
-  location         : "Somewhere"
+  location         : "Seoul, South Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:dk@bigadmin.org"
+      url: "mailto:dkcrew@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://rwxrwx.com"
