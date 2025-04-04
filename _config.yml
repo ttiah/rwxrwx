@@ -84,9 +84,9 @@ google:
   search_engine_id       : "339ec831440884e7f" # YOUR_SEARCH_ENGINE_ID
   instant_search         : false # false (default), true
 # SEO Related
-google_site_verification :
-bing_site_verification   :
-naver_site_verification  :
+google_site_verification : "7VRAO5xEvCwGcOPBe5ntSm6MgPNlg6P84ojjzt6o2Jo"
+bing_site_verification   : "DE6824B1581CF903EB8A9973DE0CF509"
+naver_site_verification  : "1d41b50ac0e444b832bcbde5e29d9639f6235484"
 yandex_site_verification :
 baidu_site_verification  :
 
