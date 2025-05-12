@@ -1,7 +1,7 @@
 ---
 layout: single
 title: '세상을 바꾼 단 한 권의 책: 킹제임스 성경의 출간 배경'
-date: 2025-05-12
+date: 2025-05-01
 categories: bible
 tags: [KJV, KJB]
 sidebar:
