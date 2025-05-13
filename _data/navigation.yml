@@ -2,6 +2,8 @@
 main:
   - title: "Home"
     url: https://rwxrwx.com/
+  - title: "Bible"
+    url: https://rwxrwx.com/categories/#bible
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Quick-Start Guide"
