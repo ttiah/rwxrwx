@@ -1,7 +1,7 @@
 ---
 layout: single
 title: '문학과 성경, 셰익스피어도 감탄한 킹제임스 성경'
-date: 2025-05-14
+date: 2025-05-14 08:31:14 +0900
 categories: bible
 tags: [KJV, KJB]
 sidebar:
