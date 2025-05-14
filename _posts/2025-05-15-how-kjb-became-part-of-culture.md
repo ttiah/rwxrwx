@@ -1,7 +1,7 @@
 ---
 layout: single
 title: '킹제임스 성경(KJB)은 어떻게 문화의 일부가 되었는가?'
-date: 2025-05-15
+date: 2025-05-15 05:01:20 +0900
 categories: bible
 tags: [KJV, KJB]
 sidebar:
