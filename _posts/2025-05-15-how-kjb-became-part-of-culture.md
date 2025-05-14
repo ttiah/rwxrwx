@@ -8,10 +8,10 @@ sidebar:
   nav: "main"
 ---
 
-“Let there be light.”
-“Am I my brother’s keeper?”
-“The powers that be.”
-“By the skin of your teeth.”
+> “Let there be light.”
+> “Am I my brother’s keeper?”
+> “The powers that be.”
+> “By the skin of your teeth.”
 
 이 표현들이 모두 어디에서 왔는지 아시나요?
 바로 **킹제임스 성경(King James Bible, 이하 KJB)**에서 비롯된 문장들입니다.
