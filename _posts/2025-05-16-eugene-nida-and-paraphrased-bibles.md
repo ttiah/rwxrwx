@@ -1,7 +1,7 @@
 ---
 layout: single
 title: '성경의 번역과 표현의 문제: 유진 니다(Eugene Nida)와 의역 성경들'
-date: 2025-05-16
+date: 2025-05-16 05:10:29 +0900
 categories: bible
 tags: [KJV, KJB]
 sidebar:
